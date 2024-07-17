@@ -1,0 +1,16 @@
+{
+  "name": "cli-github-profile-viewer",
+  "version": "1.0.0",
+  "description": "The Project is fetch using github API with async and await",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Marjan Ahmed",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/typescript": "^2.0.0"
+  }
+}
