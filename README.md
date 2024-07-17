@@ -1,4 +1,4 @@
-# GithHub Profile Finder
+# GitHub Profile Finder
 
 A CLI tool to fetch and display GitHub user data.
 
