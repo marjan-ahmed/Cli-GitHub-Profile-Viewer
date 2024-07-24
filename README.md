@@ -50,5 +50,11 @@ git clone https://github.com/marjan-ahmed/Cli-GitHub-Profile-Viewer.git
 cd Cli-GitHub-Profile-Viewer
 ```
 
+2. Run this in your terminal
+
+```
+npx cli-github-profile-finder@1.0.2
+```
+
 ## Result
 ![image](https://github.com/user-attachments/assets/a0ce853a-381f-4575-a324-ef0e3f21c967)
