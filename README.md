@@ -51,4 +51,4 @@ cd Cli-GitHub-Profile-Viewer
 ```
 
 ## Result
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a0ce853a-381f-4575-a324-ef0e3f21c967)
