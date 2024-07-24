@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.greenBright.bold("\n \tWelcome to CLI GitHub Profile Finder - Marjan Ahmed".toUpperCase()));
